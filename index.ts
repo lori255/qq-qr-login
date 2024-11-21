@@ -45,8 +45,9 @@ export const init = (
         d: "72",
         v: "4",
         t: Math.random(),
-        daid: "5",
+        daid: daid,
         pt_3rd_aid: "0",
+        u1: s_url,
       })
     );
 
